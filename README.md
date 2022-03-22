@@ -1,5 +1,5 @@
 # TermCalculator
-Text-Input based Calculator - Uses regex to parse user's text-only input and various functions/algorithms to resolve
+Uses regex to parse user's text-only input and various functions/algorithms to resolve
 
 - Open index.html
 - Open brower console, as math only shows in console atm
